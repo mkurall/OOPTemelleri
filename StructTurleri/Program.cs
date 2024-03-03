@@ -1,5 +1,6 @@
 ﻿
 using StructTurleri;
+using System.Data;
 
 MyClass myClass = new MyClass();
 myClass.Value = 10;
@@ -7,9 +8,6 @@ myClass.Value = 10;
 
 MyStruct myStruct = new MyStruct();
 myStruct.Value = 20;
-
-
-
 
 MyClass myClass2 = myClass;
 MyStruct myStruct2 = myStruct;
