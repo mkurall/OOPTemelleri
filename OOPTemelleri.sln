@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMetotlar", "Extens
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arayuzler", "Arayuzler\Arayuzler.csproj", "{49204B38-02EE-463E-A4BB-E4F6E0102508}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoyutSiniflar", "SoyutSiniflar\SoyutSiniflar.csproj", "{F32D5A0F-B4FE-45C9-939B-BD0707DAC035}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{49204B38-02EE-463E-A4BB-E4F6E0102508}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49204B38-02EE-463E-A4BB-E4F6E0102508}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49204B38-02EE-463E-A4BB-E4F6E0102508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32D5A0F-B4FE-45C9-939B-BD0707DAC035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32D5A0F-B4FE-45C9-939B-BD0707DAC035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32D5A0F-B4FE-45C9-939B-BD0707DAC035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32D5A0F-B4FE-45C9-939B-BD0707DAC035}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

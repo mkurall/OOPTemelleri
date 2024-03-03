@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,6 +13,7 @@ namespace Arayuzler
         public DosyaIslemleri(string file)
         {
             DosyayiAc(file);
+           
         }
 
         private void DosyayiAc(string file)
