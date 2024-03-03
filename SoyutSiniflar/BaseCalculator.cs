@@ -21,7 +21,7 @@ namespace SoyutSiniflar
 
         public override string ToString()
         {
-            return "Sonuç = " + Calculate(LeftOperand, RightOperand);
+            return "Result = " + Calculate(LeftOperand, RightOperand);
         }
     }
 }

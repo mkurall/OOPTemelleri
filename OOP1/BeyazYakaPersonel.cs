@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP1
 {
-    internal class BeyazYakaPersonel : Personel
+    public class BeyazYakaPersonel : Personel
     {
         public bool YuksekLisansVarMi { get; set; }
         public string Departman { get; set; }

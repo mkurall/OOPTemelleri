@@ -19,3 +19,10 @@ Console.WriteLine(byp1.BilgisiniGetir());
 
 Console.WriteLine(p1.BilgisiniGetir());
 Console.WriteLine(p2.BilgisiniGetir());
+
+
+List<Personel> list = new List<Personel>();
+
+list.Add(p1);
+list.Add(p2);
+list.Add(byp1);

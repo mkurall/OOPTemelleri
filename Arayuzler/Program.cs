@@ -4,7 +4,6 @@ using Arayuzler;
 
 ISifreci sifreci = new SifrelemeAlgo1();
 
-
 //-------------------------------------
 string str = "Btkakademi";
 string sifreliMetin = sifreci.Sifrele(str);
