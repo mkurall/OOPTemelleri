@@ -7,6 +7,8 @@ BeyazYakaPersonel byp1 = new BeyazYakaPersonel(3);
 p1.Ad = "Mustafa";
 p1.Soyad = "KURAL";
 
+
+
 p2.Ad = "Ali";
 p2.Soyad = "Can";
 
